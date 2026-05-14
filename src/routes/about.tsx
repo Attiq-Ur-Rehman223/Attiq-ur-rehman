@@ -105,7 +105,7 @@ export default function AboutPage() {
               style={{ background: 'linear-gradient(135deg, oklch(0.55 0.28 290), oklch(0.72 0.17 200))' }} />
             <img
               src="/headshot-on-white.jpg"
-              alt="Alex Morgan — Shopify & WordPress Developer"
+              alt="Attiq Ur Rehman — Shopify & WordPress Developer"
               className="relative rounded-3xl w-full max-w-sm mx-auto object-cover shadow-2xl"
               style={{ aspectRatio: '4/5' }}
             />
