@@ -72,7 +72,7 @@ export default function AboutPage() {
           <div>
             <p className="text-sm font-semibold uppercase tracking-widest gradient-text mb-4">About Me</p>
             <h1 className="text-5xl font-black mb-6 leading-tight">
-              Hi, I'm <span className="gradient-text">Alex Morgan</span> —
+              Hi, I'm <span className="gradient-text">Attiq Ur Rehman</span> —
               eCommerce Developer
             </h1>
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
