@@ -1,4 +1,4 @@
-# Alex Morgan — Shopify & WordPress Developer Portfolio
+# Attiq Ur Rehman — Shopify & WordPress Developer Portfolio
 
 A modern, dark-themed portfolio website for a Shopify and WordPress developer / eCommerce specialist. Built with TanStack Start and deployed on Netlify.
 
